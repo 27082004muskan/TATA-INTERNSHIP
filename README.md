@@ -11,6 +11,7 @@ making
 Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
 
 WORKED ON THE QUESTIONS: 
+
 **Question 1**
 
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
